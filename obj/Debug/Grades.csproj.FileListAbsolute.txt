@@ -1,0 +1,7 @@
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
