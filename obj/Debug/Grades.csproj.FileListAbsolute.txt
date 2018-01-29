@@ -5,3 +5,7 @@ C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.csp
 C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.exe
 C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.pdb
 C:\Users\arari\Documents\personal\cs_tutorial\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\GradeBook\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\GradeBook\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\GradeBook\obj\Debug\Grades.exe
+C:\Users\arari\Documents\personal\cs_tutorial\Grades\GradeBook\obj\Debug\Grades.pdb
